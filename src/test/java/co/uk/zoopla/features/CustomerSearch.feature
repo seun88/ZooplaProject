@@ -13,3 +13,4 @@ Feature: Search Properties For Sale
     Examples:
     |Location|MinPrice|MaxPrice|
     |Manchester|£150000|£200000|
+    |London    |£100000|250000 |
